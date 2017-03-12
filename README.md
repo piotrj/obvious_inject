@@ -1,5 +1,7 @@
 # ObviousInject
 
+[![Build Status](https://travis-ci.org/piotrj/obvious_inject.svg?branch=master)](https://travis-ci.org/piotrj/obvious_inject)
+
 This is a tongue in cheek gem that gives you an implementation of Enumerable's inject that you don't have to google every time.
 Are you always forgetting whether memo is the first or second argument? This gem is for you.
 
